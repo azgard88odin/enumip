@@ -1,7 +1,5 @@
 # IP Enumeration Tool (EnumIP)
 
-## Overview
-
 `enumip.py` is a powerful tool for passive reconnaissance that allows cybersecurity and OSINT professionals to quickly gather geographical and network information about IP addresses. This tool leverages the ip-api.com API to retrieve comprehensive data about target IPs, making it invaluable during the initial footprinting and passive reconnaissance phases of security assessments.
 
 ## Features
